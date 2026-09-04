@@ -1,3 +1,7 @@
+# (Deprecated)
+
+See: https://github.com/Sedomanai/Elang-Game-Engine
+
 # Elang GUI (QT)
 
 ## Built on top of Elang Game Engine
